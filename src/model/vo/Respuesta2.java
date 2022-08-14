@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package model.vo;
 
-/**
- *
- * @author DIDIER GUERRERO
- */
 public class Respuesta2 {
     private Integer id_proyecto;
     private String constructora;
